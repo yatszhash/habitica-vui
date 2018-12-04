@@ -1,0 +1,36 @@
+{
+  "id": "68d541b4-f51e-4335-a461-e2917873df94",
+  "name": "scoreTask-complete",
+  "auto": true,
+  "contexts": [
+    "scoretask-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "scoretask-followup",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ja",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1530658855,
+  "fallbackIntent": false,
+  "events": []
+}

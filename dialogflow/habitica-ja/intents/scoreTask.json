@@ -1,0 +1,37 @@
+{
+  "id": "196e683c-f077-41fa-9a60-887a41ca767d",
+  "name": "scoreTask",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "6d2b20dc-01ae-4b62-99ad-6b4baed7254c",
+          "required": false,
+          "dataType": "@taskType",
+          "name": "taskType",
+          "value": "$taskType",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ja",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": true,
+  "lastUpdate": 1530658461,
+  "fallbackIntent": false,
+  "events": []
+}

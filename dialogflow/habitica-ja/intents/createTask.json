@@ -1,0 +1,43 @@
+{
+  "id": "49bd9774-4d89-4ebd-9965-02fbc30b38c9",
+  "name": "createTask",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "3e7cf330-367a-4cfa-b18f-027c59e3b452",
+          "required": true,
+          "dataType": "@taskType",
+          "name": "taskType",
+          "value": "$taskType",
+          "prompts": [
+            {
+              "lang": "ja",
+              "value": "タスクのタイプは何ですか？"
+            }
+          ],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ja",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1530527753,
+  "fallbackIntent": false,
+  "events": []
+}

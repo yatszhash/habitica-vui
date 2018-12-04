@@ -1,0 +1,28 @@
+{
+  "id": "7407e8d5-c3f5-4c1d-89ad-71a0133f2ca1",
+  "name": "listTasks",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ja",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": true,
+  "lastUpdate": 1530495451,
+  "fallbackIntent": false,
+  "events": []
+}

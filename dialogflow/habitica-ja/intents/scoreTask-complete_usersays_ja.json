@@ -1,0 +1,26 @@
+[
+  {
+    "id": "ca03b5bc-b73b-4b66-b0bb-31e831601d0e",
+    "data": [
+      {
+        "text": "はい",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1530658855
+  },
+  {
+    "id": "16262528-cc95-420f-84fa-6f2eab776857",
+    "data": [
+      {
+        "text": "お願いします",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1530658855
+  }
+]

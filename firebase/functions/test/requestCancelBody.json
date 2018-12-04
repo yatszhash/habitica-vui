@@ -1,0 +1,45 @@
+{
+  "responseId": "6c4c543a-9cb7-40ba-8bdc-fbf381fe7058",
+  "queryResult": {
+    "queryText": "キャンセル",
+    "parameters": {},
+    "allRequiredParamsPresent": true,
+    "fulfillmentMessages": [
+      {
+        "text": {
+          "text": [
+            ""
+          ]
+        }
+      }
+    ],
+    "outputContexts": [
+      {
+        "name": "projects/habitica-ja/agent/sessions/4d284de0-b790-0711-c862-4e4b927c522a/contexts/createtask-followup",
+        "lifespanCount": 10,
+        "parameters": {
+          "priority.original": "難しい",
+          "task": {
+            "taskType": "TODO",
+            "text": "掃除",
+            "priority": "難しい"
+          },
+          "priority": "難しい"
+        }
+      }
+    ],
+    "intent": {
+      "name": "projects/habitica-ja/agent/intents/36148b20-41bd-475d-97eb-2f0df57b7e45",
+      "displayName": "cancel"
+    },
+    "intentDetectionConfidence": 0.78,
+    "diagnosticInfo": {
+      "end_conversation": true
+    },
+    "languageCode": "ja"
+  },
+  "originalDetectIntentRequest": {
+    "payload": {}
+  },
+  "session": "projects/habitica-ja/agent/sessions/4d284de0-b790-0711-c862-4e4b927c522a"
+}

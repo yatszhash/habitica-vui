@@ -1,0 +1,86 @@
+[
+  {
+    "id": "efa77b11-2705-40dd-88cd-65c1b6763a23",
+    "data": [
+      {
+        "text": "TODO",
+        "alias": "taskType",
+        "meta": "@taskType",
+        "userDefined": true
+      },
+      {
+        "text": "を覚えて",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1530527753
+  },
+  {
+    "id": "b31313df-3d82-45d6-b505-13804f401d35",
+    "data": [
+      {
+        "text": "日課",
+        "alias": "taskType",
+        "meta": "@taskType",
+        "userDefined": true
+      },
+      {
+        "text": "を加えて",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1530527753
+  },
+  {
+    "id": "f4756f95-1bd9-4578-935f-d8c40e9b4e65",
+    "data": [
+      {
+        "text": "タスクを登録して",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1530527753
+  },
+  {
+    "id": "f1e014fd-28ff-4438-9733-6a3dedf3e1f8",
+    "data": [
+      {
+        "text": "新しい",
+        "userDefined": false
+      },
+      {
+        "text": "TODO",
+        "alias": "taskType",
+        "meta": "@taskType",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1530527753
+  },
+  {
+    "id": "a86bf32b-a107-49df-909f-d443cf5ad420",
+    "data": [
+      {
+        "text": "習慣",
+        "alias": "taskType",
+        "meta": "@taskType",
+        "userDefined": true
+      },
+      {
+        "text": "を足して",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1530527753
+  }
+]

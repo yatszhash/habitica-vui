@@ -1,0 +1,45 @@
+{
+  "id": "cee86e00-6496-4b28-993d-88d65fece88a",
+  "name": "createTask-askPriority",
+  "auto": true,
+  "contexts": [
+    "createTask-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "createTask-followup",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "64282c4a-f9a4-4a32-8ad1-35f7a2591ea4",
+          "required": false,
+          "dataType": "@sys.time-period",
+          "name": "time-period",
+          "value": "$time-period",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ja",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": true,
+  "lastUpdate": 1530627309,
+  "fallbackIntent": false,
+  "events": []
+}

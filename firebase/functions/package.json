@@ -1,0 +1,47 @@
+{
+  "name": "dialogflowFirebaseFulfillment",
+  "description": "This is the default fulfillment for a Dialogflow agents using Cloud Functions for Firebase",
+  "version": "0.0.1",
+  "private": true,
+  "license": "Apache Version 2.0",
+  "author": "Google Inc.",
+  "engines": {
+    "node": "~6.0"
+  },
+  "scripts": {
+    "start": "firebase serve --only functions:dialogflowFirebaseFulfillment",
+    "deploy": "firebase deploy --only functions:dialogflowFirebaseFulfillment",
+    "build": "./node_modules/.bin/tslint -p tslint.json && ./node_modules/.bin/tsc",
+    "forceBuild": "./node_modules/.bin/tsc",
+    "emulator-start": "functions start",
+    "emulator-deploy": "./node_modules/.bin/tsc && functions deploy dialogflowFirebaseFulfillment --trigger-http",
+    "emulagor-call": "functions call dialogflowFirebaseFulfillment",
+    "emulator-debug": "functions inspect dialogflowFirebaseFulfillment"
+  },
+  "dependencies": {
+    "actions-on-google": "2.0.0-alpha.4",
+    "dialogflow": "^0.1.0",
+    "dialogflow-fulfillment": "0.3.0-beta.3",
+    "firebase-admin": "^5.12.1",
+    "firebase-functions": "^1.1.0",
+    "kuromoji": "^0.1.2",
+    "mathjs": "^5.0.1",
+    "murmurhash-native": "^3.2.3",
+    "request": "^2.87.0",
+    "request-promise-native": "^1.0.5"
+  },
+  "devDependencies": {
+    "@types/chai": "^4.1.4",
+    "@types/core-js": "^2.5.0",
+    "@types/kuromoji": "^0.1.0",
+    "@types/mathjs": "^4.4.0",
+    "@types/mocha": "^5.2.4",
+    "@types/node": "^10.5.2",
+    "chai": "^4.1.2",
+    "mocha": "^5.2.0",
+    "ts-node": "^7.0.0",
+    "tslint": "^5.10.0",
+    "typescript": "^2.9.2"
+  },
+  "main": "lib/index.js"
+}

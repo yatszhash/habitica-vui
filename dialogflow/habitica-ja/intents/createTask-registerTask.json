@@ -1,0 +1,30 @@
+{
+  "id": "ed56491c-ec93-4d2e-a4f9-566fb06ec236",
+  "name": "createTask-registerTask",
+  "auto": true,
+  "contexts": [
+    "createTask-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ja",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1530620820,
+  "fallbackIntent": false,
+  "events": []
+}

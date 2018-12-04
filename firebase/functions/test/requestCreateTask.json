@@ -1,0 +1,41 @@
+{
+  "responseId": "281a1073-bbed-4a0d-95df-1e1a44ba9f60",
+  "queryResult": {
+    "queryText": "洗濯",
+    "action": "input.unknown",
+    "parameters": {},
+    "allRequiredParamsPresent": true,
+    "fulfillmentText": "今のは少しわかりにくかったです。",
+    "fulfillmentMessages": [
+      {
+        "text": {
+          "text": [
+            "今のは少しわかりにくかったです。"
+          ]
+        }
+      }
+    ],
+    "outputContexts": [
+      {
+        "name": "projects/habitica-ja/agent/sessions/4d284de0-b790-0711-c862-4e4b927c522a/contexts/createtask-followup",
+        "lifespanCount": 4,
+        "parameters": {
+          "task": {
+            "taskType": "習慣"
+          }
+        }
+      }
+    ],
+    "intent": {
+      "name": "projects/habitica-ja/agent/intents/c99ad49a-a4a9-4c2f-8f1b-04fd0e2f2392",
+      "displayName": "Default Fallback Intent"
+    },
+    "intentDetectionConfidence": 1,
+    "diagnosticInfo": {},
+    "languageCode": "ja"
+  },
+  "originalDetectIntentRequest": {
+    "payload": {}
+  },
+  "session": "projects/habitica-ja/agent/sessions/4d284de0-b790-0711-c862-4e4b927c522a"
+}

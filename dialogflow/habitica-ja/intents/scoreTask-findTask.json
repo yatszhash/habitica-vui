@@ -1,0 +1,36 @@
+{
+  "id": "79682e3d-35b6-4553-901f-dfdfba722b9f",
+  "name": "scoreTask-findTask",
+  "auto": true,
+  "contexts": [
+    "scoretask-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "scoretask-followup",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ja",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1530658780,
+  "fallbackIntent": false,
+  "events": []
+}

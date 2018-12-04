@@ -1,0 +1,29 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "types": [
+      "node"
+    ],
+    "target": "es6",
+    "outDir": "out",
+    "allowJs": true,
+    "sourceMap": true,
+    "lib": [
+      "es6",
+      "es5",
+      "dom"
+    ],
+    "noImplicitReturns": true,
+    "typeRoots": [
+      "node_modules/@types"
+    ]
+  },
+  "exclude": [
+    "node_modules"
+  ],
+  "compileOnSave": true,
+  "include": [
+    "src/**.*",
+    "test/**.*"
+  ]
+}

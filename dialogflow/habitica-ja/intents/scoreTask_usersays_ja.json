@@ -1,0 +1,68 @@
+[
+  {
+    "id": "a99e6f1b-e395-4575-8c2e-4c156205ee46",
+    "data": [
+      {
+        "text": "タスクをチェックして",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1530619564
+  },
+  {
+    "id": "8c258b4b-802b-4dac-87cf-92c30db0f18e",
+    "data": [
+      {
+        "text": "習慣",
+        "alias": "taskType",
+        "meta": "@taskType",
+        "userDefined": false
+      },
+      {
+        "text": "をチェックして",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1530658284
+  },
+  {
+    "id": "99ae1f00-1014-45d0-9ef7-7839c9ed7ca8",
+    "data": [
+      {
+        "text": "日課",
+        "alias": "taskType",
+        "meta": "@taskType",
+        "userDefined": false
+      },
+      {
+        "text": "が終わったよ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1530658284
+  },
+  {
+    "id": "a5948fdf-48c4-4272-84bf-82e0e0808496",
+    "data": [
+      {
+        "text": "TODO",
+        "alias": "taskType",
+        "meta": "@taskType",
+        "userDefined": false
+      },
+      {
+        "text": "が完了した",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1530658284
+  }
+]

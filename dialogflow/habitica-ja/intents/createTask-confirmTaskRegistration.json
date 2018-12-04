@@ -1,0 +1,39 @@
+{
+  "id": "7d156e86-cb7e-4d8c-a9a3-96e8dbb2cae1",
+  "name": "createTask-confirmTaskRegistration",
+  "auto": true,
+  "contexts": [
+    "createTask-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "164aa1c4-f978-4044-baa1-07b5cf5d0414",
+          "required": false,
+          "dataType": "@taskDifficulty",
+          "name": "priority",
+          "value": "$priority",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ja",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1530620793,
+  "fallbackIntent": false,
+  "events": []
+}

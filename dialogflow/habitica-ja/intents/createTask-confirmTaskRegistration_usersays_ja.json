@@ -1,0 +1,58 @@
+[
+  {
+    "id": "727aa1be-9c9b-46c7-9f21-6569f9141e92",
+    "data": [
+      {
+        "text": "難しい",
+        "alias": "priority",
+        "meta": "@taskDifficulty",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1530540369
+  },
+  {
+    "id": "eca0a8ed-a131-46c5-917a-a0550f0aa415",
+    "data": [
+      {
+        "text": "ちょちょい",
+        "alias": "priority",
+        "meta": "@taskDifficulty",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1530540369
+  },
+  {
+    "id": "0e823e4c-98db-4afc-89bf-d41d66b85dce",
+    "data": [
+      {
+        "text": "簡単",
+        "alias": "priority",
+        "meta": "@taskDifficulty",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1530540369
+  },
+  {
+    "id": "1aa59c98-5da4-4913-8e10-bddbedc327ff",
+    "data": [
+      {
+        "text": "普通",
+        "alias": "priority",
+        "meta": "@taskDifficulty",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1530540369
+  }
+]

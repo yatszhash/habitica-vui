@@ -1,0 +1,38 @@
+[
+  {
+    "id": "53318888-e6d9-4adb-b393-97fb880191b2",
+    "data": [
+      {
+        "text": "ストップ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1530526803
+  },
+  {
+    "id": "e7c09e4e-c326-4d11-9b95-5042abecfad2",
+    "data": [
+      {
+        "text": "いいえ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1530526803
+  },
+  {
+    "id": "480227d7-91f5-4191-a22a-7813e2940964",
+    "data": [
+      {
+        "text": "キャンセルして",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1530526803
+  }
+]

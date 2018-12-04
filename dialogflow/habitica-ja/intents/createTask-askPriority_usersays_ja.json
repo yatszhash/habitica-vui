@@ -1,0 +1,68 @@
+[
+  {
+    "id": "73eb6918-e1db-425a-92c9-ff6abcd276fd",
+    "data": [
+      {
+        "text": "宿題を終わらせる",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1530627309
+  },
+  {
+    "id": "a6d9be55-f937-4118-b9e3-d4b1401e1e92",
+    "data": [
+      {
+        "text": "トレーニング",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1530627309
+  },
+  {
+    "id": "a9b86b66-b413-4687-af22-a785f0551bd8",
+    "data": [
+      {
+        "text": "煙草を吸わない",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1530627309
+  },
+  {
+    "id": "e8cad59c-1b85-49f2-92d9-105262df39cc",
+    "data": [
+      {
+        "text": "朝",
+        "alias": "time-period",
+        "meta": "@sys.time-period",
+        "userDefined": false
+      },
+      {
+        "text": "ゴミ出しをする",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1530627309
+  },
+  {
+    "id": "9c446cc7-8779-4ae9-8e03-b6a77716684f",
+    "data": [
+      {
+        "text": "皿洗い",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1530627309
+  }
+]

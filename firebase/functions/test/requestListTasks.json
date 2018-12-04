@@ -1,0 +1,28 @@
+{
+  "responseId": "ebe36392-2f02-4631-874d-08e22d83eb05",
+  "queryResult": {
+    "queryText": "どんなタスクがある",
+    "parameters": {},
+    "allRequiredParamsPresent": true,
+    "fulfillmentMessages": [
+      {
+        "text": {
+          "text": [
+            ""
+          ]
+        }
+      }
+    ],
+    "intent": {
+      "name": "projects/habitica-ja/agent/intents/7407e8d5-c3f5-4c1d-89ad-71a0133f2ca1",
+      "displayName": "listTasks"
+    },
+    "intentDetectionConfidence": 1,
+    "diagnosticInfo": {},
+    "languageCode": "ja"
+  },
+  "originalDetectIntentRequest": {
+    "payload": {}
+  },
+  "session": "projects/habitica-ja/agent/sessions/d805129b-0050-d58b-6de0-b528acbbb458"
+}
